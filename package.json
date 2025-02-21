@@ -15,5 +15,8 @@
     "url": "https://github.com/E20434/3YP_RW_kitchen_backend/issues"
   },
   "homepage": "https://github.com/E20434/3YP_RW_kitchen_backend#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
 }
